@@ -1,0 +1,12 @@
+len,    3,    variable,    7
+ 
+len,    23,    variable,    1
+ 
+main,    20,    function,    0
+ 
+name,    22,    function,    2
+ 
+str,    1,    variable,    5
+ 
+string_length,    1,    function,    2
+ 
